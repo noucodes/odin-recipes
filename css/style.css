@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 5% 20%;
+    background: whitesmoke;
+}
+
+h1{
+    line-height: 70px;
+}
